@@ -1,0 +1,5 @@
+DEBUG:root:debug message
+DEBUG:root:debug message
+DEBUG:root:x debug message
+2020-07-28 11:48:27,508
+2020-07-28 11:49:39,407 [11] x debug message 
